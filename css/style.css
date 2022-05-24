@@ -74,4 +74,23 @@ th, td {
     font-size: 30px;
     align: center;
   }
+
+  .head {
+    background-color: rgb(50, 50, 50);
+    color: white;
+    display: block;
+    padding: 10px;
+    border-radius: 5px;
+    text-align: center;
+    border-style:double;
+  }
+
+  .side {
+    display: block;
+    margin: 0;
+  }
+
+  .main {
+    display: block;
+    margin: 0;
 }
