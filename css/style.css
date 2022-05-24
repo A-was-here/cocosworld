@@ -71,7 +71,7 @@ th, td {
   section {
     border: 0.5px none;
     padding: 0px;
-    font-size: 30px;
+    font-size: 70px;
     align: center;
   }
 
@@ -85,12 +85,7 @@ th, td {
     border-style:double;
   }
 
-  .side {
-    display: block;
-    margin: 0;
+  h1 {
+    font-size: 90px;
   }
-
-  .main {
-    display: block;
-    margin: 0;
 }
