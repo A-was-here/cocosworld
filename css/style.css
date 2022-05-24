@@ -22,9 +22,9 @@ h1 {
 }
 
 section {
-  border: 0.5px dashed;
+  border: 0.5px none;
   padding: 5px;
-  font-size: 24px;
+  font-size: 30px;
   align: center;
 }
 
