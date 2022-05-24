@@ -22,3 +22,8 @@ th, td {
 table {
   border: 1px solid;
 }
+
+.main {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+}
