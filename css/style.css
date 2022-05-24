@@ -27,6 +27,7 @@ table {
   border: 1px solid;
 }
 
+/*
 .side {
   margin: 15px;
   display: block;
@@ -36,5 +37,5 @@ table {
   display: grid;
   grid-template-columns: auto auto;
 }
-/*
+
 */
