@@ -1,5 +1,15 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
 
+body {
+  font-family: "Roboto", "Arial", sans-serif;
+}
+
+section {
+  border-top: 1px dashed;
+  margin-bottom: 5px;
+  margin-top: 15px;
+}
+
 table {
   border: 1px;
 }
