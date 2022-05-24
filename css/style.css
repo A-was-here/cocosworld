@@ -88,4 +88,10 @@ th, td {
   h1 {
     font-size: 90px;
   }
+
+  img {
+    display: inline-block;
+    max-width: 350px;
+    max-height: auto;
+  }
 }
