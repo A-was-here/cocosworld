@@ -7,7 +7,7 @@ body {
 }
 
 section {
-  border: 1px solid;
+  border: 0.5px solid;
   padding: 5px;
   font-size: 16px;
 }
@@ -27,8 +27,9 @@ table {
   border: 1px solid;
 }
 
-
+/*
 .main {
   display: grid;
   grid-template-columns: 3fr 2fr;
 }
+*/
