@@ -9,7 +9,10 @@ body {
 section {
   border: 1px solid;
   padding: 5px;
+  font-size: 16px;
 }
+
+
 
 table {
   border: 1px;
