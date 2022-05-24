@@ -3,7 +3,6 @@
 body {
   font-family: "Roboto", "Arial", sans-serif;
   color: rgb(50, 50, 50);
-
   -max-width: 800px;
   /**/
 }
@@ -23,7 +22,7 @@ h1 {
 }
 
 section {
-  border-bottom: 0.5px dashed;
+  border: 0.5px dashed;
   padding: 5px;
   font-size: 24px;
   align: center;
@@ -51,7 +50,15 @@ th, td {
 }
 
 /*
+.side {
+  position: fixed;
+}
 
+
+.wrap {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+}
 */
 
 .main {
