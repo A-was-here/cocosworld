@@ -1,3 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
 table {
   border: 1px;
+}
+
+th, td {
+  border: 1px solid;
+  padding: 3px;
+}
+
+table {
+  border: 1px solid;
 }
