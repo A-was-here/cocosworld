@@ -22,7 +22,7 @@ h1 {
 }
 
 section {
-  border: 0.5px dashed;
+  border: 0.5px none;
   padding: 5px;
   font-size: 30px;
   align: center;
@@ -65,4 +65,13 @@ th, td {
 .main {
   display: table;
   margin: 0 auto;
+}
+
+@media only screen and (max-device-width: 800px) {
+  section {
+    border: 0.5px none;
+    padding: 0px;
+    font-size: 30px;
+    align: center;
+  }
 }
