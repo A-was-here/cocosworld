@@ -7,11 +7,16 @@ body {
 }
 
 section {
-  border: 0.5px dashed;
+  border: 0.5px none;
   padding: 5px;
   font-size: 16px;
 }
 
+img {
+  display: inline-block;
+  max-width: 50px;
+  max-height: auto;
+}
 
 
 table {
@@ -29,13 +34,13 @@ table {
 
 /*
 .side {
-  margin: 15px;
   display: block;
+
+  position: fixed;
 }
+*/
 
 .main {
   display: grid;
-  grid-template-columns: auto auto;
+  grid-template-columns: 1fr 1fr;
 }
-
-*/
