@@ -19,6 +19,7 @@ body {
 
 h1 {
   font-size: 50px;
+  overflow: scroll;
 }
 
 section {
@@ -73,6 +74,10 @@ th, td {
     padding: 0px;
     font-size: 60px;
     align: center;
+  }
+
+  table {
+    overflow: scroll;
   }
 
   .head {
