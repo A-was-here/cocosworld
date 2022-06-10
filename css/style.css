@@ -80,6 +80,11 @@ th, td {
   table {
     overflow: scroll;
     max-width: 800px;
+
+  }
+
+  tr, th {
+    font-size: 20px;
   }
 
   .head {
