@@ -77,7 +77,7 @@ th, td {
   }
 
   table {
-    overflow: auto;
+    overflow: hidden;
   }
 
   .head {
