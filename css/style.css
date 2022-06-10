@@ -38,7 +38,7 @@ img {
 
 table {
   border: 1px;
-
+  overflow: scroll;
 }
 
 th, td {
@@ -68,6 +68,7 @@ th, td {
   margin: 0 auto;
 }
 
+
 @media only screen and (max-device-width: 800px) {
   section {
     border: 0.5px none;
@@ -77,7 +78,8 @@ th, td {
   }
 
   table {
-    overflow: hidden;
+    overflow: scroll;
+    max-width: 800px;
   }
 
   .head {
